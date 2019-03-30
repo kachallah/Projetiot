@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Projet-iot</string>
+    <string name="capteur_de_temp_rature">Capteur de température</string>
+</resources>
